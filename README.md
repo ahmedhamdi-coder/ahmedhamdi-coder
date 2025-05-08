@@ -1,4 +1,3 @@
-```md
 <div align="center">
   <a href="#">
     <img src="https://readme-typing-svg.demolab.com?font=Hack&weight=600&size=30&duration=4000&pause=1000&color=5865F2&center=true&vCenter=true&width=600&height=70&lines=Software+Engineering+Student;Web+Developer;Junior+Frontend+Developer" alt="Typing Title">
@@ -37,4 +36,3 @@
     <img src="https://i.pinimg.com/originals/5d/2c/44/5d2c44694918947aede42306cb7154d0.gif" alt="Centered GIF" style="max-width: 100%; border-radius: 10px;">
   </div>
 </div>
-```
