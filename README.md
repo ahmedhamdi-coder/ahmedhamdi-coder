@@ -1,75 +1,38 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINK" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Hack&weight=600&size=30&duration=4000&pause=1000&color=5865F2&center=true&vCenter=true&width=600&height=70&lines=Software+Engineering+Student;Web+Developer;Junior+Frontend+Developer" alt="Typing Title">
   </a>
-  <a href="https://github.com/YOUR-USERNAME" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-  <a href="https://www.behance.net/YOUR-LINK" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769FF&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-</div>
 
-###
+  <div align="center">
+    <img src="https://img.shields.io/badge/Node.js-Expert-339933?logo=nodedotjs&logoColor=white&style=for-the-badge">
+    <img src="https://img.shields.io/badge/Discord.js-5865F2?logo=discord&logoColor=white&style=for-the-badge">
+  </div>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR-USERNAME.YOUR-USERNAME"  />
-</div>
+  <h2 align="center">Web Development Stack</h2>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js&perline=7&theme=light">
+  </div>
 
-###
+  <h2 align="center">🚀 Languages I Work With</h2>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=python,cs,c&theme=light">
+  </div>
 
-<h1 align="center">Hi, I'm Ahmed Hamdi 👋</h1>
+  <h2 align="center">Contact Me</h2>
+  <div align="center">
+    <a href="mailto:ahmed.hamdi.tech@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+    <a href="https://discord.com/users/955778442425683988" target="_blank">
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+    </a>
+    <a href="https://www.linkedin.com/in/ahmed-hamdi-frontend/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+  </div>
 
-###
-
-<h3 align="left">👨‍💻 About Me</h3>
-
-###
-
-<p align="left">
-I'm a Junior Frontend Developer & UI/UX Designer from Egypt 🇪🇬 <br><br>
-- 🔭 I’m currently working in Marketing at Catrolded <br>
-- 💻 Frontend Developer using HTML, CSS, Bootstrap & JavaScript <br>
-- 🎨 UI/UX Designer Trainee at DEPI <br>
-- 🎓 Software Engineering Student <br>
-- 🚀 My goal is to become a Software Engineer <br>
-- ⚡ I love building responsive websites and clean user interfaces
-</p>
-
-###
-
-<h3 align="left">🛠 Languages and Tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" />
-</div>
-
-###
-
-<h3 align="left">🔥 My Stats</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR-USERNAME&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" />
+  <br>
+  <div align="center">
+    <img src="https://i.pinimg.com/originals/5d/2c/44/5d2c44694918947aede42306cb7154d0.gif" alt="Centered GIF" style="max-width: 100%; border-radius: 10px;">
+  </div>
 </div>
